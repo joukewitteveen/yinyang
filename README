@@ -1,0 +1,9 @@
+YINYANG
+
+A basic validation of parentheses, brackets and braces being balanced
+and properly nested.
+
+Usage: yinyang [FILE]
+
+With no FILE, or when FILE is -, read standard input.
+
